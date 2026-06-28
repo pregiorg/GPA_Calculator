@@ -22,7 +22,7 @@ GPA = total weighted points / total credits
 ## Usage
 1. Clone the repo:
 ```bash
-git clone https://github.com/pregiorg/GPA-Calculator.git
+git clone https://github.com/pregiorg/GPA_Calculator.git
 cd gpa_calculator
 ```
 2. Run:
